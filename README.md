@@ -20,16 +20,6 @@ Adding a simple AI to the Tic-Tac-Toe Game:
   - [Minimax Algorithm in Game Theory](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
   - [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI)
 
-
-## DEMO:
-#### The board will be printed out every time a player makes a move.
-The board will look like this!
-The positions of this 3 x 3 board is same as the **keypad on the right side of your key board**.
-
-
-#### You just have to input the position(1-9).
-![1](https://user-images.githubusercontent.com/61280281/81096720-799abc80-8f24-11ea-97cc-de65614cbd92.png)
-  
   
 # *Author* :
 - [Bharani](https://github.com/Bharani1611)  
