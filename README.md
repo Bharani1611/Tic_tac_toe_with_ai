@@ -1,29 +1,36 @@
-# Tic_tac_toe_with_ai
+# Tic-Tac-Toe-AI
+Adding a simple AI to the Tic-Tac-Toe Game:
 
-# aes_encode
+## 3 modes:
+- Player vs. Player (2 - player mode)
+- Player vs. AI (1 - player mode)
+- AI vs. AI (*for fun*)
 
-A small python program that encodes and decodes text.
 
-### Prerequisites
+## *References*
+#### *Logic*
+- Optimal Tic Tac Toe Moves
 
-- pycryptodome 3.9.8
-- Python 3
 
-### How to run the script
+![tic_tac_toe](https://user-images.githubusercontent.com/61280281/91558896-ba479700-e954-11ea-8415-3759e555ad23.png)
 
-> python aes_encode.py "a text"
+- Videos:
+  - [Tic Tac Toe - Never Lose (Usually Win)](https://www.youtube.com/watch?v=5n2aQ3UQu9Y&feature=youtu.be)
+  - [Tic Tac Toe AI with Minimax Algorithm](https://www.youtube.com/watch?v=trKjYdBASyQ&feature=youtu.be)
+  - [Minimax Algorithm in Game Theory](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
+  - [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI)
 
-Example:
-```
-python aes_encode.py "hello world"
-```
-An encrypted file (`encrypted.bin`) will be generated
-when the program has finished running.
 
-### Screenshot/GIF showing the sample use of the script
+## DEMO:
+#### The board will be printed out every time a player makes a move.
+The board will look like this!
+The positions of this 3 x 3 board is same as the **keypad on the right side of your key board**.
 
-![Screen shot](https://github.com/Python-World/python-mini-projects/blob/master/projects/Create_script_to_encode_and_decode_text/output.png)
 
-### Author Name
-
-[Gaodong](https://github.com/xlgd)
+#### You just have to input the position(1-9).
+![1](https://user-images.githubusercontent.com/61280281/81096720-799abc80-8f24-11ea-97cc-de65614cbd92.png)
+  
+  
+# *Author* :
+- [Bharani](https://github.com/Bharani1611)  
+- [Github](https://github.com/Bharani1611)
